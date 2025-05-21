@@ -25,5 +25,5 @@
 
 ## ✨ Interests & Hobbies
 - 🎼 I love music! Transcribing it, arranging it, composing it, and listening to it.
-- - 🎷 I play saxophone, bassoon, and clarinet!
+- 🎷 I play saxophone, bassoon, and clarinet!
 - 🎧 I have perfect pitch!
