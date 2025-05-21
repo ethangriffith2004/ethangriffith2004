@@ -22,3 +22,8 @@
 - ![Multisim](https://img.shields.io/badge/-Multisim-003399?style=flat-square)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## ✨ Interests & Hobbies
+- 🎼 I love music! Transcribing it, arranging it, composing it, and listening to it.
+- - 🎷 I play saxophone, bassoon, and clarinet!
+- 🎧 I have perfect pitch!
