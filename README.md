@@ -16,6 +16,7 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat-square&logo=&logoColor=white)
+- ![AppleScript](https://img.shields.io/badge/-AppleScript-999999?style=flat-square&logo=applescript&logoColor=white)
 
 **Platforms**
 - ![Vivado](https://img.shields.io/badge/-Vivado-ffcc00?style=flat-square)
