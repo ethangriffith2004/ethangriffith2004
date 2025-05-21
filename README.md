@@ -24,6 +24,8 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriffith2004&theme=light&hide_langs_below=1">
+
 ## ✨ Interests & Hobbies
 - 🎼 I love music! Transcribing it, arranging it, composing it, and listening to it.
 - 🎷 I play saxophone, bassoon, and clarinet!
