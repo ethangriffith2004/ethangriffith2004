@@ -1,9 +1,9 @@
 ## 👋 Hi! My name is Ethan Griffith
-- 🎓 Computer Engineering student at The Pennsylvania State University
-- 🔧 Currently interning at CTDI with a focus on hardware & electrical engineering
-- 🎯 Creative and motivated with strong attention to detail while maintaining deadlines
-- 🤝 Able to work effectively independently or in a team
-- 💡 Bring initiative, dedication, enthusiasm, and a collaborative mindset to any project
+- 🎓 I am a computer engineering student at The Pennsylvania State University.
+- 🔧 Currently interning at CTDI with a focus on hardware & electrical engineering.
+- 🎯 Creative and motivated with strong attention to detail while maintaining deadlines.
+- 🤝 Able to work effectively independently or in a team.
+- 💡 Bring initiative, dedication, enthusiasm, and a collaborative mindset to any project.
 - 🌟 Always open to connecting and exploring opportunities to work together!
 
 ## 📫 Connect with Me
@@ -24,9 +24,11 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriffith2004&theme=light&hide_langs_below=1">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriffith2004&theme=default&layout=compact&langs_count=6">
 
 ## ✨ Interests & Hobbies
 - 🎼 I love music! Transcribing it, arranging it, composing it, and listening to it.
 - 🎷 I play saxophone, bassoon, and clarinet!
 - 🎧 I have perfect pitch!
+
+![Visitors](https://komarev.com/ghpvc/?username=ethangriffith2004&style=flat-square)
