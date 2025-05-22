@@ -1,9 +1,9 @@
 ## 👋 Hi! My name is Ethan Griffith
-- 🎓 I am a computer engineering student at The Pennsylvania State University.
-- 🔧 Currently interning at CTDI with a focus on hardware & electrical engineering.
-- 🎯 Creative and motivated with strong attention to detail while maintaining deadlines.
-- 🤝 Able to work effectively independently or in a team.
-- 💡 Bring initiative, dedication, enthusiasm, and a collaborative mindset to any project.
+- 🎓 I am a computer engineering student at The Pennsylvania State University
+- 🔧 Currently interning at CTDI with a focus on hardware & electrical engineering
+- 🎯 Creative and motivated with strong attention to detail while maintaining deadlines
+- 🤝 Able to work effectively independently or in a team
+- 💡 Bring initiative, dedication, enthusiasm, and a collaborative mindset to any project
 - 🌟 Always open to connecting and exploring opportunities to work together!
 
 ## 📫 Connect with Me
