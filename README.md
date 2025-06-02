@@ -14,6 +14,7 @@
 ## 🛠️ Skills
 **Languages**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat-square&logo=&logoColor=white)
 - ![AppleScript](https://img.shields.io/badge/-AppleScript-999999?style=flat-square&logo=applescript&logoColor=white)
