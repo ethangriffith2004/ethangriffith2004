@@ -21,6 +21,9 @@
 
 **Platforms**
 - ![Vivado](https://img.shields.io/badge/-Vivado-ffcc00?style=flat-square)
+- ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+- ![NetBeans](https://img.shields.io/badge/-NetBeans-2F8CC0?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 - ![Multisim](https://img.shields.io/badge/-Multisim-003399?style=flat-square)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
