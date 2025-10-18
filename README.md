@@ -5,7 +5,7 @@
 - Bring initiative, dedication, enthusiasm, and a collaborative mindset to any project
 - Always open to connecting and exploring opportunities to work together!
 
-## Connect with Me
+## Connect
 - ewgriffith999@gmail.com
 - ewg5223@psu.edu
 - [LinkedIn](https://linkedin.com/in/ethangriffith2004)
@@ -29,9 +29,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriffith2004&theme=default&layout=compact&langs_count=6">
 
-## Interests & Hobbies
-- I love music! Transcribing it, arranging it, composing it, and listening to it
+## Interests
+- I love music! Transcribing it, arranging it, composing it, and listening to it. I also have perfect pitch!
 - I play saxophone, bassoon, and clarinet
-- I have perfect pitch!
 
 ![Visitors](https://komarev.com/ghpvc/?username=ethangriffith2004&style=flat-square)
