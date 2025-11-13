@@ -29,8 +29,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriffith2004&theme=default&layout=compact&langs_count=6">
 
-## Interests
-- I love music! Transcribing it, arranging it, composing it, and listening to it. I also have perfect pitch!
-- I play saxophone, bassoon, and clarinet
-
 ![Visitors](https://komarev.com/ghpvc/?username=ethangriffith2004&style=flat-square)
